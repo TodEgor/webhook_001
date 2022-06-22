@@ -23,7 +23,7 @@
         "@types/express": "4.16.1",
         "@types/got": "9.4.1",
         "express": "^4.16.4",
-        "got": "^9.6.0",
+        "got": "^11.8.5",
         "handlebars": "4.1.0",
         "yandex-cfg-env": "2.1.1",
         "yandex-logger": "7.1.2"
